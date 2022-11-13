@@ -1,7 +1,7 @@
 ![CS50 Picture](https://goo.gl/mJwNUC)
 
 # Harvard University - CS50AI: Artificial Intelligence in Python
-This repository contains my solutions to the CS50AI's 2020 run, as taught by Brian Yu and David J. Malan. The nominally 7 week course included 12 practical assignments covering main approaches both in traditional deterministic AI and in more modern approaches such as deep neural networks and natural language processing. My take on the assignments is stored in this repository for further referece. I have completed the course in the second half of the year 2020, having received the certificate of completion on 30 December 2020, as can be seen in the "Certificate" folder
+This repository contains my solutions to the CS50AI's 2020 run, as taught by Brian Yu and David J. Malan. The nominally 7 week course included 12 practical assignments covering main approaches both in traditional deterministic AI and in more modern approaches such as deep neural networks and natural language processing. My take on the assignments is stored in this repository for further referece.
 
 ## Links to the course:
 [CS50AI on Harvard's website](https://cs50.harvard.edu/ai/2020/) and 
